@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Wed, 18 Nov 2026 21:12:11 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clicking a dialogue&#x27;s title in the Database now opens its Patreon post. The last page of the setup wizard is simpler: set up your teachers&#x27; page now in Settings, or later.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.2.2/Hungarize-0.2.2.zip" sparkle:edSignature="xeGJfk1UImdZC1by/bsaFES/xFRtuecb7WqG4xDLsRm9OyxrVz0Ez6JjDz15dzEPUi0TjX2J/GCZKs6sZE+uAQ==" length="2439321" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Wed, 18 Nov 2026 19:54:15 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
