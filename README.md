@@ -1,6 +1,6 @@
 # Hungarize for Mac
 
-The Hungarize app for macOS (Apple Silicon, macOS 13 or later): Hungarize's Patreon dialogues, notes,
+The Hungarize app for macOS (Apple Silicon and Intel Macs, macOS 13 or later): Hungarize's Patreon dialogues, notes,
 exercises and services in one window.
 
 **Download:** [Hungarize.dmg](https://github.com/hungarize/hungarize-app/releases/latest/download/Hungarize.dmg)
