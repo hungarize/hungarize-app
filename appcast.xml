@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.5</title>
+      <pubDate>Thu, 19 Nov 2026 07:51:10 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New Feedback button on Home (and Help ▸ Send Feedback…): tell us what doesn’t work, what could be better, or what you miss.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.2.5/Hungarize-0.2.5.zip" sparkle:edSignature="WZKwFwQN1HzjacxFtRALZ9C54p2AKXAHR9laAMD6XGj4wPinY4TkSNA+r8rZdseRkvi5OOpzI4QZgGEtrEwKCQ==" length="2455378" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <pubDate>Thu, 19 Nov 2026 06:35:43 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
