@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.4</title>
+      <pubDate>Thu, 19 Nov 2026 06:35:43 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Help ▸ Run onboarding again now also brings back every tip and banner you turned off. The notes tip has a floppy disk icon, since notes are saved on your Mac.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.2.4/Hungarize-0.2.4.zip" sparkle:edSignature="58fytbh257gJGPMuy1IDg+OXXyq+TyiW1htyiZfVMdeQvvewPjEpUa7UFA9z11TfNI8o6Upys7+1rKAhCQJ8BQ==" length="2448462" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.3</title>
       <pubDate>Wed, 18 Nov 2026 22:45:43 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
