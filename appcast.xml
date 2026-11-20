@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.3</title>
+      <pubDate>Fri, 20 Nov 2026 19:18:56 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New Reader: read each dialogue calmly in its own font and colours, with the player built in (the Reader button in the study bar). Print flashcards as cut-out cards, a word table, a word search or a crossword. Three flashcard styles. The app can greet you by name. Streaks can be hidden for a calmer view. Exercises and Reader buttons now toggle. The exercise banner is gone.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.3/Hungarize-0.3.3.zip" sparkle:edSignature="csUJ/AZKj5wJZcxpqY1+/YGXfBXuLVgC/4a4lw2mK61b/ubBRhoQprcpLWjz8DlCE39u0h/VaYA98XmBRbwLAA==" length="6279758" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.2</title>
       <pubDate>Fri, 20 Nov 2026 08:16:55 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
