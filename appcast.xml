@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Fri, 20 Nov 2026 01:12:34 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A big update: a guided tour (Learn the app, on Home), statistics with streaks and a calendar, flashcards from each dialogue&#x27;s word list, printable worksheets, a default playback speed with per-dialogue speeds, notes from the right-click menu, alerts when new dialogues are out, a taller exercise player and tidier Patreon pages.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.0/Hungarize-0.3.0.zip" sparkle:edSignature="di8zfuW4Y7j7zea0pKhUaqwbAJLOY99R2XhB7NLtd2G+oyVFs9CEOG/L8wHCFtRu2y8aVBQWS6vI99dIxdsxBw==" length="5519499" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.7</title>
       <pubDate>Thu, 19 Nov 2026 11:33:56 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
