@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.4</title>
+      <pubDate>Fri, 20 Nov 2026 21:40:41 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Paprikas: every 5 listening days in a row earn one, and a paprika saves your streak if you miss a weekday (see the calendar). Older NAPI DIALÓGUS posts now work in the Reader and with Flashcards. The Reader has dark-mode tones, a monospace font option, and its player is fixed. The study bar shows each tool getting ready, with the Reader first. Birthday greetings, new flashcard print options and dark-mode flashcards.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.4/Hungarize-0.3.4.zip" sparkle:edSignature="RxrQEQ4W9YYmjg3PuRXvgsZ0brE3dkRToV2LBn4QcoZnFwKDgFv6NXtL2/b7B0jTDsDEXNNWQYjMoxXFH7rXAQ==" length="6554403" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.3</title>
       <pubDate>Fri, 20 Nov 2026 19:18:56 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
