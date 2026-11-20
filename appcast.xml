@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.2</title>
+      <pubDate>Fri, 20 Nov 2026 08:16:55 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Print now opens the worksheet instantly: it&#x27;s prepared in the background as soon as a dialogue&#x27;s study bar appears. The exercise banner is gone; the study bar&#x27;s Exercises button replaces it. The guided tour and the welcome screens show the new study bar.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.2/Hungarize-0.3.2.zip" sparkle:edSignature="O+PUMfrvgOxj6FHOudpHcTNeUGjcbDraZgjzA8CAln40XoVnFKhKd69F6yrgMMWw4DofjqPFtf/mffJpbGU/Bg==" length="5663653" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Fri, 20 Nov 2026 07:51:18 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
