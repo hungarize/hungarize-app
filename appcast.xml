@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.7</title>
+      <pubDate>Sat, 21 Nov 2026 11:41:29 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: the dialogue&#x27;s audio player now lives in the study bar. In the Reader and over an exercise it opens as a full player under the study bar, or folds into a mini player; the audio carries on where it was when you switch between the Reader and an exercise. Also new: see the dialogue and its translation side by side in the Reader, line by line. The study bar trims to icons in narrow windows, and the loading cover waits until the Reader is ready.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.7/Hungarize-0.3.7.zip" sparkle:edSignature="wAybIQNMcSITR4NesmveYusJDpxksASoMecO7XAZqmALFtVv/NL8vXDBXWx/9Np+QsUGw01EKQ2rLe4vSPKbBg==" length="7484310" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.6</title>
       <pubDate>Sat, 21 Nov 2026 09:30:16 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
