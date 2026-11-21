@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.6</title>
+      <pubDate>Sat, 21 Nov 2026 09:30:16 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: star words on flashcards or in the Reader&#x27;s word list, and find them all in Notebook ▸ Words. A short daily review brings starred words back with spaced repetition, and finishing it ticks the day. Also: clearer Study tools settings with Reader defaults and a preview, a real serif font, two dark Reader tones, and better handling of older post titles.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.6/Hungarize-0.3.6.zip" sparkle:edSignature="HMd0/ilP9CRnAH7ZKCC/cLwEe4pDm9KnUUuAkzIqJGGWK+7gzxOg4LrYlNZLLS+MGiUVwLTrxJzVX/kBiY8dCg==" length="7321464" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.5</title>
       <pubDate>Fri, 20 Nov 2026 23:06:28 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
