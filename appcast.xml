@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.8</title>
+      <pubDate>Sat, 21 Nov 2026 14:45:31 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: starred words float on your notes as small flashcards you can flip, and you can print only the starred words. The Notebook groups many notes by week, month and year, and the note icon opens just the note. Stars are now in the Hungarize colour. Fixed: the Back button after opening a dialogue from the Notebook, and the study bar no longer shows under the loading cover.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.8/Hungarize-0.3.8.zip" sparkle:edSignature="7IqFIGJQQGItubyFU9rwt29jS4hU/ENx9uuQ8NePgCkdpOgGx8rJ44XjSg9YJEwn9ihi7Eg0f/Xg9vrV3zhQCg==" length="7615080" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.7</title>
       <pubDate>Sat, 21 Nov 2026 11:41:29 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
