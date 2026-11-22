@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.12</title>
+      <pubDate>Sun, 22 Nov 2026 23:55:38 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Flashcards: once you&#x27;ve turned a card over, you can swipe it from either side, even after turning it back. Settings: Exercise layout now sits in Study tools, under Exercises and printing, and the statistics button is tidier. Setup: the name step has Next and Skip buttons.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.12/Hungarize-0.3.12.zip" sparkle:edSignature="psTl7Ju83vcqmekK+EZpMcrDVwP56MAPMLMJkuHC9znaPl+GxD49jmk6b5uonms1RpRr0RVx5Xl2Iyqj/OKIAQ==" length="6457200" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.11</title>
       <pubDate>Sun, 22 Nov 2026 22:50:40 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
