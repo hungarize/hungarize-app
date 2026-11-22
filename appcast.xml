@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.11</title>
+      <pubDate>Sun, 22 Nov 2026 22:50:40 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A fresher, more macOS-like look. The title bar&#x27;s Back, Forward and Reload, and the tabs, sit in Liquid Glass, and every switch slides to your choice. On Home, Reload shows that it&#x27;s checking and a green tick once today&#x27;s dialogues are up to date. The study bar&#x27;s tools now show where you are: Exercises turns green when done, Flashcards counts the cards still to learn, Notes turns yellow once written; the Reader&#x27;s buttons match them. START and CLASSIC tags use dark letters for easier reading. Spin a dialogue opens on your Home level. Settings is calmer, with Birthday on its own row, and the flashcards and note windows show the dialogue&#x27;s tag and word as their heading, with dark mode throughout.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.11/Hungarize-0.3.11.zip" sparkle:edSignature="bvaUVRDCqPPIDiPZUkIlK8accd9GtU/6pAvdQ6ERpKy75aM7OYf3zG+tIhE5RX1XUHGM0sYLX+xgUIE9JqT6Dw==" length="6452500" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.10</title>
       <pubDate>Sun, 22 Nov 2026 08:31:53 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
