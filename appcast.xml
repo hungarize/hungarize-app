@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.17</title>
+      <pubDate>Mon, 23 Nov 2026 21:52:21 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Members of our earlier Classic tiers (Rubik, Dobos torta, Erős Pista) now have the same access as Classic: flashcards, notes, the Notebook, printing and Spin a dialogue. Fixed: when dialogues open straight in the Reader, the word list&#x27;s Flashcards button now appears as soon as the flashcards are ready.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.17/Hungarize-0.3.17.zip" sparkle:edSignature="ZIbsGHumSvyIMWUaZSI6nOYuunhXbdnZM1xZsNlBdR6cN24bZzFvsZCutMt9xUE29T/xwoDFFyAvlA1s639VCA==" length="7812849" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.16</title>
       <pubDate>Mon, 23 Nov 2026 21:02:31 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
