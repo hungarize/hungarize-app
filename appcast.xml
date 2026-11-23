@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.16</title>
+      <pubDate>Mon, 23 Nov 2026 21:02:31 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A refreshed welcome setup, now with the Reader, the study bar and new dialogue alerts (macOS asks for permission only when you choose to turn them on). After the setup, short tours show you around Home, your first dialogue&#x27;s study bar and the Dialogue Database. Learn the App has new animations that show how the app looks and works today, including the Reader, side by side, exercises, the player and its speed, flashcards, starred words and notes.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.16/Hungarize-0.3.16.zip" sparkle:edSignature="5vDCqIX0LFGX9pcfBkhRsfJogGMXVUOtTgcbmkvdvo56AKBHrFqp7dJks+5St9cIQA150UZYhOTMxMhTsANWCQ==" length="7537611" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.15</title>
       <pubDate>Mon, 23 Nov 2026 14:08:56 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
