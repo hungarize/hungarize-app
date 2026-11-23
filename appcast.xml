@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.14</title>
+      <pubDate>Mon, 23 Nov 2026 12:12:12 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Upgrade to unlock on a dialogue your membership doesn&#x27;t include now lets you choose: Upgrade to Ultra (keep what you have and unlock the other level too) or Switch tiers. Booking and payment pages (Calendly, Stripe, Patreon checkout) show a lock button next to Reload that confirms the connection is secure and encrypted. The study bar now blends in with the window&#x27;s title bar, in light and dark mode.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.14/Hungarize-0.3.14.zip" sparkle:edSignature="ygshiDJxpcFPPiH9k1bIWynCLrcVn8Jl4+129YxHdH1DlxfPCcmAdMCESOnoYFSfQSvy8/m7x9duq005W8uyBg==" length="6848453" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.13</title>
       <pubDate>Mon, 23 Nov 2026 10:21:10 GMT</pubDate>
       <sparkle:version>23</sparkle:version>
