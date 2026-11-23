@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.15</title>
+      <pubDate>Mon, 23 Nov 2026 14:08:56 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.3.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Teacher&#x27;s notes: lesson-note pages no longer show Notion&#x27;s &quot;more properties&quot; toggle under the title, so the page starts with your notes.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.15/Hungarize-0.3.15.zip" sparkle:edSignature="d7/Gu6EPh/75wgBA/7YOZBGuZOL7DYWd0Qw8/h4JUXsUsKLJtBWCa6kh6Odr4pgXZdbLSUJfHiHK1G00pVwfDw==" length="6848700" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.14</title>
       <pubDate>Mon, 23 Nov 2026 12:12:12 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
