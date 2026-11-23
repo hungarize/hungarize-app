@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.18</title>
+      <pubDate>Mon, 23 Nov 2026 23:20:37 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Behind the scenes: Home&#x27;s special days, holiday greetings and study tips can now be refreshed without an app update, so they&#x27;ll stay up to date between versions.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.18/Hungarize-0.3.18.zip" sparkle:edSignature="mEsBNdJWNbgdan6+J1vfOyJkEAlby14WPzQ16LOFnYHp/xXOkEBAsboC5LOgjavOwBh28tsqrWm1k6ous9WqCQ==" length="8039118" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.17</title>
       <pubDate>Mon, 23 Nov 2026 21:52:21 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
