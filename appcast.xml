@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.20</title>
+      <pubDate>Mon, 23 Nov 2026 23:54:26 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Bug fixes and small adjustments.</p>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.20/Hungarize-0.3.20.zip" sparkle:edSignature="aR7m9MHpY8g/pdq2U+8EpAoU58Q9fwoZx4tFr5g0PNqVI9iI3uVjc8/HtjxRAo8ptZsNS5P7VjQf7D7Usln1Cw==" length="8040927" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.19</title>
       <pubDate>Mon, 23 Nov 2026 23:29:21 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
