@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.22</title>
+      <pubDate>Tue, 24 Nov 2026 22:08:22 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.3.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Hungarize now uses the real Liquid Glass look of the latest macOS: a clearer title bar, and Back/Forward and the tabs stand out properly.</li><li>New floating player: while you listen in the Reader or do an exercise, the player floats as a glass pill over the window. Drag it to the top or bottom, left, middle or right. It moves out of the way by itself when an exercise is open.</li><li>Exercises side by side keep their player when you leave the dialogue&#x27;s page.</li><li>Newer exercises show the dialogue&#x27;s cover picture instead of the logo.</li><li>In a wide window, the Reader shows the dialogue&#x27;s cover picture above the contents.</li><li>The finished Exercises button in the Reader shows its tick again.</li><li>The Dialogue Database is tidier: no Patreon link column, and simpler filter and sort options. Click a title to open the dialogue.</li><li>Booking and payment pages (Calendly, Stripe) always open over the page.</li><li>Older exercises (LearningApps) no longer show their small full-screen button.</li><li>Small fixes and adjustments.</li></ul>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.22/Hungarize-0.3.22.zip" sparkle:edSignature="2icK/bprhuSdk9ytLTgMfxRWhm278X9mZiWJ1uTwejFPKmHpVUUfBzaznJT4Xr2DC4utxGMngG1OjoYMqyCLCg==" length="8310070" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.21</title>
       <pubDate>Tue, 24 Nov 2026 12:08:46 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
