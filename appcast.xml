@@ -6,6 +6,15 @@
     <description>Updates for the Hungarize app</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.21</title>
+      <pubDate>Tue, 24 Nov 2026 12:08:46 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.3.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>In response to our beta testers&#x27; feedback:</p><ul><li>Exercises opened from the Reader now follow your choice in Settings ▸ Study tools ▸ Exercise layout.</li><li>Side by side, the Reader stays on one half with the exercise beside it, and the dialogue player opens under the study bar; closing the exercise gives the Reader the whole window again.</li><li>A new button next to Print switches between over the page and side by side at any time, and the Reader comes back just as you left it.</li><li>Feedback now opens in its own window, so you can take a screenshot of the app and add it.</li><li>The Upload button on the feedback form works now.</li><li>Older &quot;NAPI DIALÓGUS&quot; dialogues now count as CLASSIC, with their level taken from the post&#x27;s tags, in your statistics and Notebook.</li></ul>]]></description>
+      <enclosure url="https://github.com/hungarize/hungarize-app/releases/download/v0.3.21/Hungarize-0.3.21.zip" sparkle:edSignature="7C7egkjScRTCqYZC7H33ULlLt9bxsk34d2dMVw3cBpi8TtrTcD0jPd5Y1wPo/88RR0bsibFbg71NRXnhxWGLBg==" length="8093755" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.20</title>
       <pubDate>Mon, 23 Nov 2026 23:54:26 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
