@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hungarize Privacy</title>
+<meta name="description" content="How the Hungarize app for Mac handles your data.">
+<link rel="icon" type="image/png" href="icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600&display=swap">
+<style>
+:root {
+  --bg: #FFF7F1; --surface: #FFFFFF; --ink: #2B3A41; --muted: #5E6B71; --line: rgba(43, 58, 65, 0.12);
+  --accent: #E47F53; --accent-strong: #B4532B;
+  --font: "Lexend", "Avenir Next", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1C1714; --surface: #27211D; --ink: #F3ECE6; --muted: #B5ABA3; --line: rgba(243, 236, 230, 0.12);
+    --accent: #EE8F63; --accent-strong: #F4A886; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1C1714; --surface: #27211D; --ink: #F3ECE6; --muted: #B5ABA3; --line: rgba(243, 236, 230, 0.12);
+  --accent: #EE8F63; --accent-strong: #F4A886; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.65;
+  padding: 0 max(16px, env(safe-area-inset-left, 0px)) 56px max(16px, env(safe-area-inset-right, 0px));
+  -webkit-font-smoothing: antialiased;
+}
+main { max-width: 720px; margin: 0 auto; }
+header { display: flex; align-items: center; gap: 12px; padding: 32px 0 8px; }
+header img { width: 44px; height: 44px; border-radius: 10px; }
+header a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 18px; }
+h1 { font-size: 30px; font-weight: 600; margin: 18px 0 4px; letter-spacing: -0.01em; }
+.updated { color: var(--muted); font-size: 14px; margin: 0 0 24px; }
+h2 { font-size: 19px; font-weight: 600; margin: 30px 0 6px; }
+p, li { color: var(--ink); }
+ul { padding-left: 1.2em; }
+li { margin: 4px 0; }
+a { color: var(--accent-strong); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; margin: 20px 0; }
+.muted { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="icon.png" alt="">
+    <a href="./">Hungarize</a>
+  </header>
+
+  <h1>Privacy</h1>
+  <p class="updated">Last updated: 25 November 2026</p>
+
+  <div class="card">
+    <p><strong>In short:</strong> the Hungarize app for Mac keeps your study data on your own Mac. We don't run ads,
+    we don't track you, and we don't sell or share your data.</p>
+  </div>
+
+  <h2>What stays on your Mac</h2>
+  <ul>
+    <li>Your notes, starred words, flashcard progress, listening and exercise statistics, and your settings
+    (for example your name and birthday, which the app uses for greetings).</li>
+    <li>Your Patreon sign-in. You sign in on Patreon's own page inside the app; Patreon keeps the sign-in in the
+    app's local web storage, just as a browser would. We never see your password.</li>
+    <li>Downloaded podcast transcripts, so they also open offline.</li>
+  </ul>
+
+  <h2>What the app reads from the internet</h2>
+  <ul>
+    <li><strong>Patreon:</strong> the Hungarize posts you open, your membership tier (to show the study tools that
+    come with it) and, for posts you can view, their audio and attachments. This is the same as using Patreon in a
+    browser and is covered by <a href="https://privacy.patreon.com/">Patreon's privacy policy</a>.</li>
+    <li><strong>GitHub:</strong> app updates and the Home screen's daily content, from our public
+    <a href="https://github.com/hungarize/hungarize-app">hungarize-app</a> project.</li>
+    <li><strong>Notion:</strong> our public dialogue database, shown in the app's Database tab.</li>
+    <li><strong>YouTube:</strong> our own videos, played in YouTube's embedded player, under
+    <a href="https://www.youtube.com/t/terms">YouTube's terms</a> and
+    <a href="https://policies.google.com/privacy">Google's privacy policy</a>.</li>
+  </ul>
+
+  <h2>What you can choose to send us</h2>
+  <p>If you use <strong>Send Feedback</strong>, what you write (and a screenshot, if you add one) goes to our
+  feedback inbox, so we can read it and reply. Nothing is sent unless you press Send.</p>
+
+  <h2>YouTube subtitles (Hungarize Captions)</h2>
+  <p>To show our videos' Hungarian and English subtitles in the app, an automated service run by Hungarize reads the
+  subtitle files of <strong>our own YouTube channel's videos</strong> through the official YouTube Data API, using
+  our own Google account. It does not access any student's Google or YouTube account and collects no personal data.
+  Its use of information received from Google APIs adheres to the
+  <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>,
+  including the Limited Use requirements.</p>
+
+  <h2>Removing your data</h2>
+  <p>Your study data lives only on your Mac: deleting the app and its folder in
+  <span class="muted">~/Library/Application Support</span> removes it. In the app, Settings also lets you delete your
+  statistics, and signing out of Patreon removes your sign-in.</p>
+
+  <h2>Contact</h2>
+  <p>Questions about privacy? Write to us through the app's <strong>Send Feedback</strong> form or message us on
+  <a href="https://www.patreon.com/cw/hungarize">our Patreon page</a>.</p>
+</main>
+</body>
+</html>
