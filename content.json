@@ -2,7 +2,7 @@
   "version": 1,
   "updated": "2026-11-25",
   "news": [
-    { "id": "news-2026-11-25", "from": "2026-11-25", "until": "2026-12-01",
+    { "id": "news-2026-11-25", "from": "2026-11-25", "until": "2026-11-25",
       "title": { "en": "How is the app so far?", "hu": "Milyennek találod az appot?" },
       "text": { "en": "Tell us what you like about it! 🙂 ",
                 "hu": "Mondd el, mi tetszik benne! 🙂 " },
