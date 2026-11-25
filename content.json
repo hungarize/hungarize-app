@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-24",
-  "news": [],
+  "updated": "2026-11-25",
+  "news": [
+    { "id": "news-2026-11-25", "from": "2026-11-25", "until": "2026-12-01",
+      "title": { "en": "How is the app so far?", "hu": "Milyennek találod az appot?" },
+      "text": { "en": "Tell us what you like about it! 🙂 ",
+                "hu": "Mondd el, mi tetszik benne! 🙂 " },
+      "link": "https://hungarize.notion.site/718de520059d4f04b3b1b499207097e5?pvs=105" }
+  ],
   "tips": [
     { "id": "repeat-out-loud",
       "title": { "en": "Repeat out loud", "hu": "Ismételj hangosan!" },
