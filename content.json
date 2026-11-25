@@ -12,8 +12,8 @@
     { "id": "event-2026-11-26", "start": "2026-11-26T20:00", "minutes": 60, "showDays": 0, "reminders": [5],
       "title": { "en": "Patreon Zoom meeting", "hu": "Patreon Zoom talákozó" },
       "text": { "en": "Today is the last Thursday of the month. This means Zoom meeting at {time}, {zone}! ",
-                "hu": "Ma van a hónap utolsó csütörtökje. Ez azt jelenti, hogy {time}-kor ({zone}) Zoom találkozó!\n" },
-      "link": "https://zoom.us/j/92265660987?pwd=ZWswL0ZqbGd2U0NnR21wVzZvN05yUT09", "linkOpen": "browser" }
+                "hu": "Ma van a hónap utolsó csütörtökje. Ez azt jelenti, hogy {time}-kor ({zone}) Zoom találkozó!" },
+      "joinLink": "https://zoom.us/j/92265660987?pwd=ZWswL0ZqbGd2U0NnR21wVzZvN05yUT09", "joinOpen": "browser" }
   ],
   "tips": [
     { "id": "repeat-out-loud",
