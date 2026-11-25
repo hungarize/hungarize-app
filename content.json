@@ -8,6 +8,13 @@
                 "hu": "Mondd el, mi tetszik benne! 🙂 " },
       "link": "https://hungarize.notion.site/718de520059d4f04b3b1b499207097e5?pvs=105", "linkOpen": "window" }
   ],
+  "events": [
+    { "id": "event-2026-11-26", "start": "2026-11-26T20:00", "minutes": 60, "showDays": 0, "reminders": [5],
+      "title": { "en": "Patreon Zoom meeting", "hu": "Patreon Zoom talákozó" },
+      "text": { "en": "Today is the last Thursday of the month. This means Zoom meeting at {time}, {zone}! ",
+                "hu": "Ma van a hónap utolsó csütörtökje. Ez azt jelenti, hogy {time}-kor ({zone}) Zoom találkozó!\n" },
+      "link": "https://zoom.us/j/92265660987?pwd=ZWswL0ZqbGd2U0NnR21wVzZvN05yUT09", "linkOpen": "browser" }
+  ],
   "tips": [
     { "id": "repeat-out-loud",
       "title": { "en": "Repeat out loud", "hu": "Ismételj hangosan!" },
