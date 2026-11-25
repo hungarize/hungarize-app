@@ -6,7 +6,7 @@
       "title": { "en": "How is the app so far?", "hu": "Milyennek találod az appot?" },
       "text": { "en": "Tell us what you like about it! 🙂 ",
                 "hu": "Mondd el, mi tetszik benne! 🙂 " },
-      "link": "https://hungarize.notion.site/718de520059d4f04b3b1b499207097e5?pvs=105" }
+      "link": "https://hungarize.notion.site/718de520059d4f04b3b1b499207097e5?pvs=105", "linkOpen": "window" }
   ],
   "tips": [
     { "id": "repeat-out-loud",
